@@ -1,0 +1,16 @@
+[DEBUG] 2020-09-26 17:21:10.580 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-26 17:21:11.529 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-26 17:21:11.634 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-26 17:21:12.860 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-26 17:21:13.973 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-26 17:21:14.064 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-26 17:21:14.372 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-26 17:21:15.389 [main] TwoTest - logout displayed
+[DEBUG] 2020-09-26 23:18:56.131 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-26 23:18:57.383 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-26 23:18:57.508 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-26 23:18:58.736 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-26 23:18:59.851 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-26 23:18:59.936 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-26 23:19:00.227 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-26 23:19:01.242 [main] TwoTest - logout displayed
