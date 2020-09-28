@@ -18,8 +18,8 @@ public class OneTest extends BaseClass{
 		driver=initializebrowser();
 		driver.get(prop.getProperty("url1"));
 		try {
-		Assert.assertEquals(driver.getTitle(),"Your Store");
-		System.out.println();
+			Assert.assertEquals(driver.getTitle(),"Your Store");
+			System.out.println();
 		}catch(Exception e) {
 			System.out.println("e");
 		}

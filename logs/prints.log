@@ -78,3 +78,11 @@
 [DEBUG] 2020-09-27 01:06:50.831 [TestNG-tests-1] TwoTest - Password Entered
 [DEBUG] 2020-09-27 01:06:51.106 [TestNG-tests-1] TwoTest - Submit clicked
 [DEBUG] 2020-09-27 01:06:57.180 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-28 11:19:06.911 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-28 11:19:10.274 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-28 11:19:10.500 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-28 11:19:12.771 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-28 11:19:13.923 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-28 11:19:14.007 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-28 11:19:14.250 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-28 11:19:20.304 [TestNG-tests-1] TwoTest - logout not displayed

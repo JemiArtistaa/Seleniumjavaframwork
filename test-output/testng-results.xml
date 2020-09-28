@@ -1,64 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" ignored="0" total="2" passed="0">
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18388" started-at="2020-09-27T01:06:39 BDT" finished-at="2020-09-27T01:06:57 BDT">
+  <suite name="Suite" duration-ms="22363" started-at="2020-09-28T11:18:58 BDT" finished-at="2020-09-28T11:19:20 BDT">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="10868" started-at="2020-09-27T01:06:39 BDT" finished-at="2020-09-27T01:06:50 BDT">
+    <test name="Test1" duration-ms="10609" started-at="2020-09-28T11:18:58 BDT" finished-at="2020-09-28T11:19:08 BDT">
       <class name="tests.OneTest">
-        <test-method status="FAIL" signature="testOneDemo()[pri:0, instance:tests.OneTest@cd3fee8]" name="testOneDemo" duration-ms="9948" started-at="2020-09-27T01:06:39 BDT" finished-at="2020-09-27T01:06:49 BDT">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [Your] but found [Your Store]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [Your] but found [Your Store]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertEqualsImpl(Assert.java:140)
-at org.testng.Assert.assertEquals(Assert.java:122)
-at org.testng.Assert.assertEquals(Assert.java:629)
-at org.testng.Assert.assertEquals(Assert.java:639)
-at tests.OneTest.testOneDemo(OneTest.java:20)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(Unknown Source)
-at org.testng.TestRunner.privateRun(TestRunner.java:764)
-at org.testng.TestRunner.run(TestRunner.java:585)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:66)
-at java.util.concurrent.FutureTask.run(Unknown Source)
-at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="testOneDemo()[pri:0, instance:tests.OneTest@cd3fee8]" name="testOneDemo" duration-ms="10230" started-at="2020-09-28T11:18:58 BDT" finished-at="2020-09-28T11:19:08 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOneDemo -->
-        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:tests.OneTest@cd3fee8]" name="terminateBrowser" is-config="true" duration-ms="79" started-at="2020-09-27T01:06:49 BDT" finished-at="2020-09-27T01:06:50 BDT">
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:tests.OneTest@cd3fee8]" name="terminateBrowser" is-config="true" duration-ms="319" started-at="2020-09-28T11:19:08 BDT" finished-at="2020-09-28T11:19:08 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminateBrowser -->
       </class> <!-- tests.OneTest -->
     </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="18388" started-at="2020-09-27T01:06:39 BDT" finished-at="2020-09-27T01:06:57 BDT">
+    <test name="Test2" duration-ms="22363" started-at="2020-09-28T11:18:58 BDT" finished-at="2020-09-28T11:19:20 BDT">
       <class name="tests.TwoTest">
-        <test-method status="FAIL" signature="twoTestDemo()[pri:0, instance:tests.TwoTest@79b06cab]" name="twoTestDemo" duration-ms="17987" started-at="2020-09-27T01:06:39 BDT" finished-at="2020-09-27T01:06:57 BDT">
+        <test-method status="FAIL" signature="twoTestDemo()[pri:0, instance:tests.TwoTest@79b06cab]" name="twoTestDemo" duration-ms="21892" started-at="2020-09-28T11:18:58 BDT" finished-at="2020-09-28T11:19:20 BDT">
           <exception class="junit.framework.AssertionFailedError">
             <full-stacktrace>
               <![CDATA[junit.framework.AssertionFailedError
@@ -95,7 +56,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- twoTestDemo -->
-        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:tests.TwoTest@79b06cab]" name="terminateBrowser" is-config="true" duration-ms="90" started-at="2020-09-27T01:06:57 BDT" finished-at="2020-09-27T01:06:57 BDT">
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:tests.TwoTest@79b06cab]" name="terminateBrowser" is-config="true" duration-ms="101" started-at="2020-09-28T11:19:20 BDT" finished-at="2020-09-28T11:19:20 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminateBrowser -->
