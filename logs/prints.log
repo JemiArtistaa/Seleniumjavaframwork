@@ -1,88 +1,120 @@
-[DEBUG] 2020-09-27 00:01:12.496 [main] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:01:13.376 [main] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:01:13.481 [main] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:01:14.711 [main] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:01:15.879 [main] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:01:16.174 [main] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:01:16.478 [main] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:01:17.490 [main] TwoTest - logout displayed
-[DEBUG] 2020-09-27 00:05:01.596 [main] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:05:02.932 [main] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:05:03.041 [main] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:05:04.281 [main] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:05:05.410 [main] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:05:05.505 [main] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:05:05.836 [main] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:05:06.879 [main] TwoTest - logout displayed
-[DEBUG] 2020-09-27 00:06:01.374 [main] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:06:02.317 [main] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:06:02.425 [main] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:06:03.694 [main] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:06:04.856 [main] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:06:04.956 [main] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:06:05.263 [main] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:06:06.280 [main] TwoTest - logout displayed
-[DEBUG] 2020-09-27 00:25:47.857 [main] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:25:48.706 [main] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:25:48.814 [main] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:25:50.104 [main] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:25:51.271 [main] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:25:51.350 [main] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:25:51.596 [main] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:25:57.660 [main] TwoTest - logout not displayed
-[DEBUG] 2020-09-27 00:40:48.126 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:40:49.759 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:40:49.871 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:40:51.105 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:40:52.224 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:40:52.315 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:40:52.570 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:40:58.630 [TestNG-tests-1] TwoTest - logout not displayed
-[DEBUG] 2020-09-27 00:46:58.088 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:46:59.083 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:46:59.200 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:47:00.489 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:47:01.635 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:47:01.731 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:47:01.995 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:47:08.035 [TestNG-tests-1] TwoTest - logout not displayed
-[DEBUG] 2020-09-27 00:48:03.393 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:48:05.993 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:48:06.126 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:48:07.416 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:48:08.541 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:48:08.626 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:48:08.937 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:48:09.951 [TestNG-tests-1] TwoTest - logout displayed
-[DEBUG] 2020-09-27 00:55:11.653 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:55:14.031 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:55:14.339 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:55:15.633 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:55:16.752 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:55:16.833 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:55:17.208 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:55:18.223 [TestNG-tests-1] TwoTest - logout displayed
-[DEBUG] 2020-09-27 00:56:10.041 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-27 00:56:10.921 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 00:56:11.037 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 00:56:12.293 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-27 00:56:13.445 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-27 00:56:13.594 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-27 00:56:13.954 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 00:56:20.030 [TestNG-tests-1] TwoTest - logout not displayed
-[DEBUG] 2020-09-27 01:06:46.058 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-27 01:06:47.906 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-27 01:06:48.015 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-27 01:06:49.303 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-27 01:06:50.640 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-27 01:06:50.831 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-27 01:06:51.106 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-27 01:06:57.180 [TestNG-tests-1] TwoTest - logout not displayed
-[DEBUG] 2020-09-28 11:19:06.911 [TestNG-tests-1] TwoTest - Browser opened
-[DEBUG] 2020-09-28 11:19:10.274 [TestNG-tests-1] TwoTest - Navigated to desired URL
-[DEBUG] 2020-09-28 11:19:10.500 [TestNG-tests-1] TwoTest - Clicked MyAccount
-[DEBUG] 2020-09-28 11:19:12.771 [TestNG-tests-1] TwoTest - Clicked login
-[DEBUG] 2020-09-28 11:19:13.923 [TestNG-tests-1] TwoTest - Email Entered
-[DEBUG] 2020-09-28 11:19:14.007 [TestNG-tests-1] TwoTest - Password Entered
-[DEBUG] 2020-09-28 11:19:14.250 [TestNG-tests-1] TwoTest - Submit clicked
-[DEBUG] 2020-09-28 11:19:20.304 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 11:01:44.210 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-29 11:01:45.362 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 11:01:45.596 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 11:01:46.905 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-29 11:01:48.087 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-29 11:01:48.202 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-29 11:01:48.528 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 11:01:54.607 [main] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 11:51:03.600 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 11:51:04.757 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 11:51:04.886 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 11:51:06.152 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 11:51:07.269 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 11:51:07.387 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 11:51:07.892 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 11:51:13.957 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 14:05:58.917 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 14:06:00.361 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 14:06:00.516 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 14:06:01.907 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 14:06:03.081 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 14:06:03.215 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 14:06:03.540 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 14:06:09.605 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 14:07:11.717 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 14:07:14.020 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 14:07:15.076 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 14:07:16.341 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 14:07:17.638 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 14:07:17.785 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 14:07:18.086 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 14:07:24.144 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 14:18:46.008 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 14:18:47.066 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 14:18:47.207 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 14:18:48.510 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 14:18:49.654 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 14:18:49.778 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 14:18:50.085 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 14:18:56.123 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 15:14:12.999 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 15:14:15.280 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 15:14:15.448 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 15:14:16.827 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 15:14:18.057 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 15:14:18.226 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 15:14:18.583 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 15:14:24.666 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 15:20:42.113 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 15:20:44.262 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 15:20:44.911 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 15:20:46.198 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 15:20:47.328 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 15:20:47.450 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 15:20:47.740 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 15:20:53.788 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 15:23:24.246 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 15:23:25.545 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 15:23:25.732 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 15:23:27.075 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 15:23:28.205 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 15:23:28.322 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 15:23:28.652 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 15:23:34.680 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 15:28:55.804 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-29 15:28:56.828 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 15:28:57.000 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 15:28:58.306 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-29 15:28:59.477 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-29 15:28:59.628 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-29 15:28:59.930 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 15:29:05.971 [main] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 15:43:29.102 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 15:43:32.355 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 15:43:32.877 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 15:43:34.226 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 15:43:35.393 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 15:43:35.650 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 15:43:37.239 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 15:43:43.285 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 15:59:31.106 [TestNG-tests-1] TwoTest - Browser opened
+[DEBUG] 2020-09-29 15:59:32.224 [TestNG-tests-1] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 15:59:32.385 [TestNG-tests-1] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 15:59:33.681 [TestNG-tests-1] TwoTest - Clicked login
+[DEBUG] 2020-09-29 15:59:34.825 [TestNG-tests-1] TwoTest - Email Entered
+[DEBUG] 2020-09-29 15:59:34.934 [TestNG-tests-1] TwoTest - Password Entered
+[DEBUG] 2020-09-29 15:59:35.240 [TestNG-tests-1] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 15:59:41.269 [TestNG-tests-1] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 17:07:53.391 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-29 17:07:54.565 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 17:07:54.727 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 17:07:56.025 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-29 17:07:57.295 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-29 17:07:57.457 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-29 17:07:57.838 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 17:08:03.901 [main] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 17:15:43.636 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-29 17:15:44.772 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 17:15:45.052 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 17:15:47.276 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-29 17:15:48.433 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-29 17:15:48.546 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-29 17:15:48.865 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 17:15:54.933 [main] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 17:21:31.177 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-29 17:21:32.219 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 17:21:32.504 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 17:21:33.844 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-29 17:21:34.991 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-29 17:21:35.135 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-29 17:21:35.493 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 17:21:41.563 [main] TwoTest - logout not displayed
+[DEBUG] 2020-09-29 17:23:31.127 [main] TwoTest - Browser opened
+[DEBUG] 2020-09-29 17:23:32.447 [main] TwoTest - Navigated to desired URL
+[DEBUG] 2020-09-29 17:23:33.212 [main] TwoTest - Clicked MyAccount
+[DEBUG] 2020-09-29 17:23:34.556 [main] TwoTest - Clicked login
+[DEBUG] 2020-09-29 17:23:35.721 [main] TwoTest - Email Entered
+[DEBUG] 2020-09-29 17:23:35.853 [main] TwoTest - Password Entered
+[DEBUG] 2020-09-29 17:23:36.205 [main] TwoTest - Submit clicked
+[DEBUG] 2020-09-29 17:23:42.258 [main] TwoTest - logout not displayed
