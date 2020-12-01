@@ -56,7 +56,7 @@ public class TwoTest extends BaseClass{
 
 		
 		landingpage.clickLogin();
-		log.debug("Clicked login");
+		log.debug("Clicked logIn");
 
 //		driver.manage().timeouts().implicitlyWait(5000, TimeUnit.MILLISECONDS);	
 		Thread.sleep(1000);
