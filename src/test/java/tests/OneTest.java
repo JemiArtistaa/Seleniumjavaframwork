@@ -21,7 +21,7 @@ public class OneTest extends BaseClass{
 			Assert.assertEquals(driver.getTitle(),"Your Store is yours");
 			System.out.println();
 		}catch(Exception e) {
-			System.out.println("Error");
+			System.out.println("Error 1");
 		}
 		
 	}
