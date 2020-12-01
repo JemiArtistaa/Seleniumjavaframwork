@@ -18,10 +18,10 @@ public class OneTest extends BaseClass{
 		driver=initializebrowser();
 		driver.get(prop.getProperty("url1"));
 		try {
-			Assert.assertEquals(driver.getTitle(),"Your Store");
+			Assert.assertEquals(driver.getTitle(),"Your Store is not yours");
 			System.out.println();
 		}catch(Exception e) {
-			System.out.println("Error");
+			System.out.println("Error is not yours");
 		}
 		
 	}
